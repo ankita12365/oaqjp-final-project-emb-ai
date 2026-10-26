@@ -1,0 +1,7 @@
+admin@DESKTOP-P7K0235 MINGW64 /home/project/final_project
+$ python3 test_emotion_detection.py
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.854s
+
+OK
